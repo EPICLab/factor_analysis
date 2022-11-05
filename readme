@@ -1,0 +1,10 @@
+factor_analysis_report includes:
+  documentation
+  backgroun information
+  analysis report
+  visualization
+factor_analysis_script includes:
+  simple R scripts
+SOB.csv:
+  sample data
+ 
